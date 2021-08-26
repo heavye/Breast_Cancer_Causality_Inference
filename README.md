@@ -105,14 +105,8 @@ A list of commonly used resources that we find helpful are listed in the acknowl
 ### Built With
 
 Resoures that used in this project are :
-* [PDAL](https://pdal.io/)
-* [Compression](https://laszip.org)
-* [Organization](https://entwine.io)
-* [Translation](https://pdal.io)
-* [Exploitation](http://lastools.org)
-* [Visualization](http://potree.org/)
-* [CloudCompare](http://plas.io)
-
+* [causalgraphicalmodels](https://github.com/ijmbarr/causalgraphicalmodels)
+* 
 
 
 
